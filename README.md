@@ -1,17 +1,25 @@
-## Hi, I'm  Suheib👋
+## Hi 👋 I'm Sohaib
 
-Backend developer focusing on **Node.js + Express + PostgreSQL**.  
-I build clean REST APIs and keep projects well-documented.
+I’m an engineer learning backend development and building practical projects.
 
-### 🚀 Featured Project
-- **E-commerce API** — Node.js + PostgreSQL REST API  
-  👉 Repo: https://github.com/USERNAME/ecommerce-api
+### 🔥 Featured Project
+**E-commerce API**
+- Backend API built with **Node.js + Express + PostgreSQL**
+- Repo: https://github.com/USERNAME/ecommerce-api
 
-### 🧰 Tech
-Node.js • Express • PostgreSQL • Git/GitHub • REST
+### 🧰 Tech I Use
+- JavaScript (Node.js)
+- Express.js
+- PostgreSQL
+- Git & GitHub
+- Postman
 
-### 📌 Next Goals
-- JWT Authentication
-- Validation & Security best practices
-- Pagination & Filtering
-# suheibmarwaneng
+### ✅ What I Can Build
+- CRUD APIs (create / read / update / delete)
+- Clean project structure (routes, controllers, middlewares)
+- Database integration (PostgreSQL)
+- Error handling + validation basics
+
+### 📫 Contact
+- GitHub: https://github.com/suheibMarwanDev
+
